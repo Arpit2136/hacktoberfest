@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Arpit Agarwal](https://github.com/Arpit2136)
+- Place: Hyderabad, India
+- Bio: software developer
+- Github: [Arpit2136](https://github.com/Arpit2136)
